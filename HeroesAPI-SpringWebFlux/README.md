@@ -1,7 +1,5 @@
 ## API reativa com Spring Boot para gerenciar super heróis da Marvel e da DC
 
-Projeto desenvolvido durante a live coding da professora [@Kamilahsantos](https://github.com/Kamilahsantos) no bootcamp _Inter Java Developer_ na plataforma da _Digital Innovation One_.
-
 Pré-requisitos para a execução do projeto:
 
 * Java 11 ou versões superiores

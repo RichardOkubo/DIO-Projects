@@ -1,7 +1,5 @@
 # Java and Kubernetes
 
-Project developed during the live coding of professor [@sandrogiacom](https://github.com/sandrogiacom) in the _Inter Java Developer_ bootcamp on the _Digital Innovation One_ platform.
-
 ## Part one - base app:
 
 ### Requirements:

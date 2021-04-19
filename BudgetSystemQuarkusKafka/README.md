@@ -1,7 +1,5 @@
 # Budget system using CQRS, Quarkus and Kafka
 
-Project developed during the live coding of professor [@wesleyfuchter](https://github.com/wesleyfuchter) in the _Inter Java Developer_ bootcamp on the _Digital Innovation One_ platform.
-
 ## About CQRS - Command Query Responsibility Segregation
 
 According with [Martin Folwer](https://martinfowler.com/bliki/CQRS.html) 
